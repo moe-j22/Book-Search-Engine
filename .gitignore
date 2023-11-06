@@ -1,0 +1,155 @@
+# Node Modules
+node_modules
+
+# Build files
+build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# TypeScript configuration
+tsconfig*.json
+
+# Yarn integrity file
+.yarn-integrity
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
+
+# Visual Studio Code
+.vscode/
+
+# Node.js generated files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+.dockerignore
+.docker/
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Jest coverage
+coverage/
+
+# Eslint
+.eslintcache
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Serverless
+.serverless/
+
+# Gatsby
+.cache/
+public/
+
+# Svelte
+__sapper__/
+.svelte-kit/
+
+# End-to-end tests
+cypress/
+
+# .NET Scaffolding
+Scaffolding/
+
+# Redundant
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Local project files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VSCode
+.vscode/
+.history
+
+# NodeJS
+node_modules/
+node_modules/*
+*.d.ts
+*.js.map
+*.tsbuildinfo
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# JetBrains
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.xlsx
+*.csproj.user
+*.xcuserstate
